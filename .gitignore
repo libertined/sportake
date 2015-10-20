@@ -1,0 +1,20 @@
+# files
+.DS_Store
+Thumbs.db
+*.sql
+/.idea/
+/*.log
+/*.txt
+/*.xml
+/*.dt
+*.tar.gz
+/LTMFINAL
+/pma
+/dev
+.htaccess
+
+# core
+/bitrix/*
+# upload
+/upload/*
+/cgi-bin/
